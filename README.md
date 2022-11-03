@@ -1,4 +1,4 @@
-# ICS2O-PWA-Template-HTML
+# iCS2OR-Unit-3-04
 
 [![Mr Coxall's Super Linter](https://github.com/ashley-monaghan/iCS2OR-Unit-3-04/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ashley-monaghan/iCS2OR-Unit-3-04/actions)
 
