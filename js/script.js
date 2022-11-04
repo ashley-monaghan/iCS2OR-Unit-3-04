@@ -24,7 +24,7 @@ function calculate() {
   const fahrenheit = parseInt(document.getElementById("fahrenheit").value)
 
   // process
-  const math = (32 - 32) * 5/9
+  const math = ((32 - 32) * 5) / 9
   // output
   document.getElementById("math").innerHTML = "Celsius: " + math + " C°"
 }
